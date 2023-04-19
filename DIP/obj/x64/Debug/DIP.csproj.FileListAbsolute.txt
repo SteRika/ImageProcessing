@@ -1,0 +1,79 @@
+D:\Recent\Teaching Material\Pengolahan Citra Digital\Project\DIP\DIP\bin\x64\Debug\DIP.exe
+D:\Recent\Teaching Material\Pengolahan Citra Digital\Project\DIP\DIP\bin\x64\Debug\DIP.pdb
+D:\Recent\Teaching Material\Pengolahan Citra Digital\Project\DIP\DIP\obj\x64\Debug\DIP.Properties.Resources.resources
+D:\Recent\Teaching Material\Pengolahan Citra Digital\Project\DIP\DIP\obj\x64\Debug\DIP.csproj.GenerateResource.Cache
+D:\Recent\Teaching Material\Pengolahan Citra Digital\Project\DIP\DIP\obj\x64\Debug\DIP.exe
+D:\Recent\Teaching Material\Pengolahan Citra Digital\Project\DIP\DIP\obj\x64\Debug\DIP.pdb
+D:\Recent\Teaching Material\Pengolahan Citra Digital\Project\DIP\DIP\bin\x64\Debug\ZedGraph.dll
+D:\Recent\Teaching Material\Pengolahan Citra Digital\Project\DIP\DIP\bin\x64\Debug\Emgu.CV.UI.xml
+D:\Recent\Teaching Material\Pengolahan Citra Digital\Project\DIP\DIP\bin\x64\Debug\Emgu.CV.World.xml
+D:\Recent\Teaching Material\Pengolahan Citra Digital\Project\DIP\DIP\obj\x64\Debug\DIP.Form1.resources
+D:\Recent\Teaching Material\Pengolahan Citra Digital\Project\DIP\DIP\obj\x64\Debug\DIP.csprojResolveAssemblyReference.cache
+F:\Recent\Teaching Material\Pengolahan Citra Digital\Project\DIP\DIP\obj\x64\Debug\DIP.exe
+F:\Recent\Teaching Material\Pengolahan Citra Digital\Project\DIP\DIP\obj\x64\Debug\DIP.pdb
+K:\Recent\Teaching Material\Pengolahan Citra Digital\Project\DIP\DIP\obj\x64\Debug\DIP.exe
+K:\Recent\Teaching Material\Pengolahan Citra Digital\Project\DIP\DIP\obj\x64\Debug\DIP.pdb
+K:\Recent\Teaching Material\Pengolahan Citra Digital\Project\DIP\DIP\bin\x64\Debug\DIP.exe
+K:\Recent\Teaching Material\Pengolahan Citra Digital\Project\DIP\DIP\bin\x64\Debug\DIP.pdb
+K:\Recent\Teaching Material\Pengolahan Citra Digital\Project\DIP\DIP\bin\x64\Debug\ZedGraph.dll
+K:\Recent\Teaching Material\Pengolahan Citra Digital\Project\DIP\DIP\bin\x64\Debug\Emgu.CV.UI.xml
+K:\Recent\Teaching Material\Pengolahan Citra Digital\Project\DIP\DIP\bin\x64\Debug\Emgu.CV.World.xml
+K:\Recent\Teaching Material\Pengolahan Citra Digital\Project\DIP\DIP\obj\x64\Debug\ResolveAssemblyReference.cache
+K:\Recent\Teaching Material\Pengolahan Citra Digital\Project\DIP\DIP\obj\x64\Debug\DIP.Form1.resources
+K:\Recent\Teaching Material\Pengolahan Citra Digital\Project\DIP\DIP\obj\x64\Debug\DIP.Properties.Resources.resources
+K:\Recent\Teaching Material\Pengolahan Citra Digital\Project\DIP\DIP\obj\x64\Debug\GenerateResource.read.1.tlog
+K:\Recent\Teaching Material\Pengolahan Citra Digital\Project\DIP\DIP\obj\x64\Debug\GenerateResource.write.1.tlog
+C:\Users\Abdul\Downloads\DIP\DIP\obj\x64\Debug\DIP.exe
+C:\Users\Abdul\Downloads\DIP\DIP\obj\x64\Debug\DIP.pdb
+D:\Kuliah\Semester 6\Pengolahan Citra Digital\Tugas\Tugas 2\DIP\DIP\obj\x64\Debug\DIP.exe
+D:\Kuliah\Semester 6\Pengolahan Citra Digital\Tugas\Tugas 2\DIP\DIP\obj\x64\Debug\DIP.pdb
+D:\Kuliah\Semester 6\Pengolahan Citra Digital\Tugas\Tugas 2\DIP\DIP\bin\x64\Debug\DIP.exe
+D:\Kuliah\Semester 6\Pengolahan Citra Digital\Tugas\Tugas 2\DIP\DIP\bin\x64\Debug\DIP.pdb
+D:\Kuliah\Semester 6\Pengolahan Citra Digital\Tugas\Tugas 2\DIP\DIP\bin\x64\Debug\Emgu.CV.UI.xml
+D:\Kuliah\Semester 6\Pengolahan Citra Digital\Tugas\Tugas 2\DIP\DIP\bin\x64\Debug\Emgu.CV.World.xml
+D:\Kuliah\Semester 6\Pengolahan Citra Digital\Tugas\Tugas 2\DIP\DIP\obj\x64\Debug\DIP.csprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 6\Pengolahan Citra Digital\Tugas\Tugas 2\DIP\DIP\obj\x64\Debug\DIP.Form1.resources
+D:\Kuliah\Semester 6\Pengolahan Citra Digital\Tugas\Tugas 2\DIP\DIP\obj\x64\Debug\DIP.Properties.Resources.resources
+D:\Kuliah\Semester 6\Pengolahan Citra Digital\Tugas\Tugas 2\DIP\DIP\obj\x64\Debug\DIP.csproj.GenerateResource.Cache
+D:\Kuliah\Semester 6\Pengolahan Citra Digital\Tugas 2\DIP\DIP\obj\x64\Debug\DIP.exe
+D:\Kuliah\Semester 6\Pengolahan Citra Digital\Tugas 2\DIP\DIP\obj\x64\Debug\DIP.pdb
+D:\Kuliah\Semester 6\Pengolahan Citra Digital\Tugas 2\DIP\DIP\bin\x64\Debug\DIP.exe
+D:\Kuliah\Semester 6\Pengolahan Citra Digital\Tugas 2\DIP\DIP\bin\x64\Debug\DIP.pdb
+D:\Kuliah\Semester 6\Pengolahan Citra Digital\Tugas 2\DIP\DIP\bin\x64\Debug\Emgu.CV.UI.xml
+D:\Kuliah\Semester 6\Pengolahan Citra Digital\Tugas 2\DIP\DIP\bin\x64\Debug\Emgu.CV.World.xml
+D:\Kuliah\Semester 6\Pengolahan Citra Digital\Tugas 2\DIP\DIP\obj\x64\Debug\DIP.csprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 6\Pengolahan Citra Digital\Tugas 2\DIP\DIP\obj\x64\Debug\DIP.Form1.resources
+D:\Kuliah\Semester 6\Pengolahan Citra Digital\Tugas 2\DIP\DIP\obj\x64\Debug\DIP.Properties.Resources.resources
+D:\Kuliah\Semester 6\Pengolahan Citra Digital\Tugas 2\DIP\DIP\obj\x64\Debug\DIP.csproj.GenerateResource.Cache
+D:\Pengolahan Citra Digital\Tugas 2\DIP\DIP\bin\x64\Debug\DIP.exe
+D:\Pengolahan Citra Digital\Tugas 2\DIP\DIP\bin\x64\Debug\DIP.pdb
+D:\Pengolahan Citra Digital\Tugas 2\DIP\DIP\bin\x64\Debug\Emgu.CV.UI.xml
+D:\Pengolahan Citra Digital\Tugas 2\DIP\DIP\bin\x64\Debug\Emgu.CV.World.xml
+D:\Pengolahan Citra Digital\Tugas 2\DIP\DIP\obj\x64\Debug\DIP.csprojAssemblyReference.cache
+D:\Pengolahan Citra Digital\Tugas 2\DIP\DIP\obj\x64\Debug\DIP.Form1.resources
+D:\Pengolahan Citra Digital\Tugas 2\DIP\DIP\obj\x64\Debug\DIP.Properties.Resources.resources
+D:\Pengolahan Citra Digital\Tugas 2\DIP\DIP\obj\x64\Debug\DIP.csproj.GenerateResource.cache
+D:\Pengolahan Citra Digital\Tugas 2\DIP\DIP\obj\x64\Debug\DIP.csproj.CoreCompileInputs.cache
+D:\Pengolahan Citra Digital\Tugas 2\DIP\DIP\obj\x64\Debug\DIP.csproj.CopyComplete
+D:\Pengolahan Citra Digital\Tugas 2\DIP\DIP\obj\x64\Debug\DIP.exe
+D:\Pengolahan Citra Digital\Tugas 2\DIP\DIP\obj\x64\Debug\DIP.pdb
+D:\Steven\C# Train\DIP\DIP\bin\x64\Debug\DIP.exe
+D:\Steven\C# Train\DIP\DIP\bin\x64\Debug\DIP.pdb
+D:\Steven\C# Train\DIP\DIP\bin\x64\Debug\Emgu.CV.UI.xml
+D:\Steven\C# Train\DIP\DIP\bin\x64\Debug\Emgu.CV.World.xml
+D:\Steven\C# Train\DIP\DIP\obj\x64\Debug\DIP.csprojAssemblyReference.cache
+D:\Steven\C# Train\DIP\DIP\obj\x64\Debug\DIP.Form1.resources
+D:\Steven\C# Train\DIP\DIP\obj\x64\Debug\DIP.Properties.Resources.resources
+D:\Steven\C# Train\DIP\DIP\obj\x64\Debug\DIP.csproj.GenerateResource.cache
+D:\Steven\C# Train\DIP\DIP\obj\x64\Debug\DIP.csproj.CoreCompileInputs.cache
+D:\Steven\C# Train\DIP\DIP\obj\x64\Debug\DIP.csproj.CopyComplete
+D:\Steven\C# Train\DIP\DIP\obj\x64\Debug\DIP.exe
+D:\Steven\C# Train\DIP\DIP\obj\x64\Debug\DIP.pdb
+D:\Steven\C# Train\DIP\DIP\bin\x64\Debug\Microsoft.VisualStudio.TestTools.UITesting.dll
+D:\Steven\C# Train\DIP\DIP\bin\x64\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.dll
+D:\Steven\C# Train\DIP\DIP\bin\x64\Debug\Microsoft.VisualStudio.TestTools.UITest.Common.dll
+D:\Steven\C# Train\DIP\DIP\bin\x64\Debug\UiaComWrapper.dll
+D:\Steven\C# Train\DIP\DIP\bin\x64\Debug\Interop.UIAutomationClient.dll
+D:\Steven\C# Train\DIP\DIP\bin\x64\Debug\Microsoft.VisualStudio.TestTools.UITesting.xml
+D:\Steven\C# Train\DIP\DIP\bin\x64\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.xml
+D:\Steven\C# Train\DIP\DIP\bin\x64\Debug\Microsoft.VisualStudio.TestTools.UITest.Common.xml
